@@ -1,0 +1,9 @@
+{
+  "name": "fsi-live-playground",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Canonical FSI Live Playground mortgage analysis rules for Adobe Customer Journey Analytics. Requires an existing CJA skill and authorized FSI Live access.",
+  "author": {
+    "name": "tvcoworkerplay"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "techval-coworker-playground-mktplc",
+  "description": "Claude skills for the TechVal Coworker Playground.",
+  "owner": {
+    "name": "tvcoworkerplay"
+  },
+  "plugins": [
+    {
+      "name": "fsi-live-playground",
+      "source": "./plugins/fsi-live-playground",
+      "description": "Canonical FSI Live Playground mortgage analysis rules for Adobe Customer Journey Analytics."
+    }
+  ]
+}
